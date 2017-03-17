@@ -3,3 +3,10 @@ git add
 git commit -m
 git status
 git diff
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+git reset --hard HEAD^^
+git reset --hard HEAD~100
+git reset --hard  545444547     //commit number
+git reflog
